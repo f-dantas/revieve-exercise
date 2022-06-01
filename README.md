@@ -1,0 +1,2 @@
+Scripts in response to Revieve exercises available here: https://github.com/revieve/devops-interview .
+The files "customers.csv", "orders.csv", and "products.csv" should be available at the scripts' folder before executing them.
